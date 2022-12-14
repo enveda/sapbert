@@ -1,5 +1,5 @@
 tqdm==4.50.2
-numpy==1.19.2
+numpy==1.22.0
 pytorch_metric_learning==0.9.98.dev1
 networkx==2.5
 transformers==4.4.2
